@@ -7,10 +7,15 @@ public class Main
   {
     Scanner sc = new Scanner(System.in);
     String input = "";
+    ArrayList<String> yay = new ArrayList<String>();
 
     while (!input.equals("STOP"))
     {
-      System.out.println("infinite loop! replace with your code");
+      
     }
+
+    System.out.println("Size: " + yay.size());
+    System.out.println(yay);
+    
   }
 }
